@@ -1,0 +1,4 @@
+https://2020-host2.pkorg.ch/overview
+https://uat3.cembra.ch/
+https://www.selenium.dev/selenium/docs/api/java/
+https://www.guru99.com/first-webdriver-script.html
